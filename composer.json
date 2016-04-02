@@ -1,0 +1,19 @@
+{
+    "name": "bad5anta/yii2-rest-serializer",
+    "description": "Adapter for Ember API server",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Kurichenko Oleksii",
+            "email": "kurichenko.oleksii@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bad5anta\\ar\\": ""
+        }
+    }
+}
